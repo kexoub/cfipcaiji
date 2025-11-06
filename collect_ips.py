@@ -14,6 +14,7 @@ urls = [
     'https://stock.hostmonit.com/CloudFlareYes', 
     'https://api.uouin.com/cloudflare.html',
     'https://addressesapi.090227.xyz/CloudFlareYes',
+    'https://ipdb.api.030101.xyz/?type=cfv4;proxy',
     'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
     'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
     'https://www.wetest.vip/page/edgeone/address_v4.html',
